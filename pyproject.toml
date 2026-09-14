@@ -1,12 +1,12 @@
 [project]
-name = "telegram-bot-template"
+name = "tg-ai-agent-bot"
 version = "0.1.0"
-description = "Production-ready Telegram bot template with aiogram 3.x, PostgreSQL, Redis, and i18n support."
+description = "Telegram-бот с ИИ-агентом: aiogram 3.x, PostgreSQL, Redis, i18n."
 readme = "README.md"
 requires-python = ">=3.13"
 
 authors = [
-    { name = "er1one", email = "er1one@vk.com" }
+    { name = "geniok", email = "geniok1980@users.noreply.github.com" }
 ]
 
 dependencies = [
